@@ -1,0 +1,40 @@
+.container-fluid{
+    background-color: gold;
+}
+.para{
+    text-align: center;
+    margin-top: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.card img{
+    width: 100%
+}
+.card-group{
+
+width: 100%;
+height: 200px;
+margin-top: 100px;
+}
+.raw{
+    width: 100px;
+}
+.container{
+    
+    background-color: gold;
+    margin-top: 70px;
+    
+
+
+}
+
+.col{
+    color:black;
+    text-align: center;
+}
+.col ul li{
+    text-align: center;
+    display: block;
+}
+.row{
+    margin-top: 100px;
+}
